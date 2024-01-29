@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.79",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "compile": "cp appsscript.json dist/appsscript.json && tsc",
+    "push": "yarn run compile && clasp push"
+  }
+}
