@@ -1,0 +1,252 @@
+﻿{
+  "activities": [
+    {
+      "activeDuration": 1343000,
+      "activeZoneMinutes": {
+        "minutesInHeartRateZones": [
+          {
+            "minuteMultiplier": 1,
+            "minutes": 0,
+            "order": 1,
+            "type": "FAT_BURN",
+            "zoneName": "Fat Burn"
+          },
+          {
+            "minuteMultiplier": 2,
+            "minutes": 0,
+            "order": 2,
+            "type": "CARDIO",
+            "zoneName": "Cardio"
+          },
+          {
+            "minuteMultiplier": 0,
+            "minutes": 0,
+            "order": 0,
+            "type": "OUT_OF_ZONE",
+            "zoneName": "Out of Range"
+          },
+          {
+            "minuteMultiplier": 2,
+            "minutes": 0,
+            "order": 3,
+            "type": "PEAK",
+            "zoneName": "Peak"
+          }
+        ],
+        "totalMinutes": 0
+      },
+      "activityLevel": [
+        { "minutes": 2, "name": "sedentary" },
+        { "minutes": 1, "name": "lightly" },
+        { "minutes": 0, "name": "fairly" },
+        { "minutes": 19, "name": "very" }
+      ],
+      "activityName": "Run",
+      "activityTypeId": 90009,
+      "calories": 326,
+      "distance": 2.963736,
+      "distanceUnit": "Kilometer",
+      "duration": 1343000,
+      "elevationGain": 7.925,
+      "hasActiveZoneMinutes": true,
+      "lastModified": "2024-01-29T23:31:15.000Z",
+      "logId": 61242913301,
+      "logType": "tracker",
+      "manualValuesSpecified": {
+        "calories": false,
+        "distance": false,
+        "steps": false
+      },
+      "originalDuration": 1343000,
+      "originalStartTime": "2024-01-30T08:08:35.000+09:00",
+      "pace": 457.32382136107464,
+      "source": {
+        "id": "303115691",
+        "name": "Google Pixel Watch",
+        "trackerFeatures": [
+          "GPS",
+          "PACE",
+          "DISTANCE",
+          "ELEVATION",
+          "STEPS",
+          "CALORIES",
+          "HEARTRATE",
+          "VO2_MAX"
+        ],
+        "type": "tracker",
+        "url": "https://www.fitbit.com/"
+      },
+      "speed": 7.871883842144454,
+      "startTime": "2024-01-30T08:08:35.000+09:00",
+      "steps": 3113
+    },
+    {
+      "activeDuration": 1265000,
+      "activeZoneMinutes": {
+        "minutesInHeartRateZones": [
+          {
+            "minuteMultiplier": 1,
+            "minutes": 0,
+            "order": 1,
+            "type": "FAT_BURN",
+            "zoneName": "Fat Burn"
+          },
+          {
+            "minuteMultiplier": 2,
+            "minutes": 0,
+            "order": 2,
+            "type": "CARDIO",
+            "zoneName": "Cardio"
+          },
+          {
+            "minuteMultiplier": 0,
+            "minutes": 0,
+            "order": 0,
+            "type": "OUT_OF_ZONE",
+            "zoneName": "Out of Range"
+          },
+          {
+            "minuteMultiplier": 2,
+            "minutes": 0,
+            "order": 3,
+            "type": "PEAK",
+            "zoneName": "Peak"
+          }
+        ],
+        "totalMinutes": 0
+      },
+      "activityLevel": [
+        { "minutes": 0, "name": "sedentary" },
+        { "minutes": 0, "name": "lightly" },
+        { "minutes": 0, "name": "fairly" },
+        { "minutes": 21, "name": "very" }
+      ],
+      "activityName": "Run",
+      "activityTypeId": 90009,
+      "calories": 352,
+      "distance": 3.364005,
+      "distanceUnit": "Kilometer",
+      "duration": 1265000,
+      "elevationGain": 7.01,
+      "hasActiveZoneMinutes": true,
+      "lastModified": "2024-01-31T23:55:19.000Z",
+      "logId": 61280279992,
+      "logType": "tracker",
+      "manualValuesSpecified": {
+        "calories": false,
+        "distance": false,
+        "steps": false
+      },
+      "originalDuration": 1265000,
+      "originalStartTime": "2024-02-01T08:33:47.000+09:00",
+      "pace": 379.0591542036612,
+      "source": {
+        "id": "303115691",
+        "name": "Google Pixel Watch",
+        "trackerFeatures": [
+          "GPS",
+          "PACE",
+          "DISTANCE",
+          "ELEVATION",
+          "STEPS",
+          "CALORIES",
+          "HEARTRATE",
+          "VO2_MAX"
+        ],
+        "type": "tracker",
+        "url": "https://www.fitbit.com/"
+      },
+      "speed": 9.497198418972332,
+      "startTime": "2024-02-01T08:33:47.000+09:00",
+      "steps": 3349
+    },
+    {
+      "activeDuration": 1242000,
+      "activeZoneMinutes": {
+        "minutesInHeartRateZones": [
+          {
+            "minuteMultiplier": 1,
+            "minutes": 0,
+            "order": 1,
+            "type": "FAT_BURN",
+            "zoneName": "Fat Burn"
+          },
+          {
+            "minuteMultiplier": 2,
+            "minutes": 0,
+            "order": 2,
+            "type": "CARDIO",
+            "zoneName": "Cardio"
+          },
+          {
+            "minuteMultiplier": 0,
+            "minutes": 0,
+            "order": 0,
+            "type": "OUT_OF_ZONE",
+            "zoneName": "Out of Range"
+          },
+          {
+            "minuteMultiplier": 2,
+            "minutes": 0,
+            "order": 3,
+            "type": "PEAK",
+            "zoneName": "Peak"
+          }
+        ],
+        "totalMinutes": 0
+      },
+      "activityLevel": [
+        { "minutes": 0, "name": "sedentary" },
+        { "minutes": 0, "name": "lightly" },
+        { "minutes": 0, "name": "fairly" },
+        { "minutes": 21, "name": "very" }
+      ],
+      "activityName": "Run",
+      "activityTypeId": 90009,
+      "calories": 360,
+      "distance": 3.299461,
+      "distanceUnit": "Kilometer",
+      "duration": 1242000,
+      "elevationGain": 4.877,
+      "hasActiveZoneMinutes": true,
+      "lastModified": "2024-02-03T01:22:41.000Z",
+      "logId": 61333567015,
+      "logType": "tracker",
+      "manualValuesSpecified": {
+        "calories": false,
+        "distance": false,
+        "steps": false
+      },
+      "originalDuration": 1242000,
+      "originalStartTime": "2024-02-03T10:01:36.000+09:00",
+      "pace": 379.95943428262007,
+      "source": {
+        "id": "303115691",
+        "name": "Google Pixel Watch",
+        "trackerFeatures": [
+          "GPS",
+          "PACE",
+          "DISTANCE",
+          "ELEVATION",
+          "STEPS",
+          "CALORIES",
+          "HEARTRATE",
+          "VO2_MAX"
+        ],
+        "type": "tracker",
+        "url": "https://www.fitbit.com/"
+      },
+      "speed": 9.474695652173914,
+      "startTime": "2024-02-03T10:01:36.000+09:00",
+      "steps": 3287
+    }
+  ],
+  "pagination": {
+    "beforeDate": "2024-03-01",
+    "limit": 100,
+    "next": "",
+    "offset": 0,
+    "previous": "",
+    "sort": "asc"
+  }
+}
